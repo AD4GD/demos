@@ -3,7 +3,7 @@ Simple demonstrations of using the components created by the project.
 
 ## List of Demos
 
-1. [Accessing the Geonetwork Catalogue Programmatically](/query_geonetwork) - Shows how to query the Geonetwork catalogue.
+[Accessing the Geonetwork Catalogue Programmatically](/query_geonetwork) - Shows how to query the Geonetwork catalogue.
 
 ## Todo
 * Querying the RAINBOW server
